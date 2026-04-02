@@ -15,12 +15,12 @@ const Navbar = () => {
         {/* Desktop Links */}
         <ul className="hidden md:flex items-center space-x-8 text-sm font-medium">
           <li>
-            <a href="/herbalark.ae/about-us" className="hover:text-green-600">
+            <a href="https://www.herbalpark.ae/about-us" className="hover:text-green-600">
               ABOUT US
             </a>
           </li>
           <li>
-            <a href="#services" className="hover:text-green-600">
+            <a href="https://www.herbalpark.ae/ayurveda" className="hover:text-green-600">
               OUR SERVICES
             </a>
           </li>
