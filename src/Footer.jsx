@@ -70,7 +70,7 @@ Message: ${message}
           <div className="bg-black/60 backdrop-blur-md rounded-md p-8 shadow-lg text-white">
             
             <h2 className="text-center text-xl md:text-2xl font-semibold mb-2">
-              Get a callback for Ayurvedic Massage
+              Call Now for Ayurvedic Massage
             </h2>
 
             <p className="text-center text-xs text-gray-200 mb-6 max-w-lg mx-auto">
