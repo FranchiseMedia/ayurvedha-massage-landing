@@ -37,16 +37,15 @@ const AyurvedaSection = () => {
             </p>
 
             <a
-              href="https://wa.me/971564169883?text=Hello%2C%20I%20would%20like%20a%20callback%20for%20Ayurvedic%20massage"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#contact"
+            
             >
               <motion.button
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="bg-[#5E8846] hover:bg-green-700 px-5 py-2 rounded-md text-sm font-medium transition"
               >
-                Get a callback
+                Enquire now
               </motion.button>
             </a>
           </motion.div>
